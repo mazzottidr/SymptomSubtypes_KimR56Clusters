@@ -360,6 +360,8 @@ ui <- dashboardPage(title="OSA Subtype Calculator", skin="red",
                         ) 
                       ) 
                       
-                    )
+                      ,
+                      tags$footer("Licensed using GNU Affero General Public License v3.0")
+                      )
                     
 )  ## Webpage Details
