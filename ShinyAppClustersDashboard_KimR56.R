@@ -19,17 +19,17 @@ programdat <- "programs"
 ##
 # Functions
 ##
-source(paste(programdat,"functions.R", sep="/"))
+source("programs/functions.R")
 
 ##
 # UI
 ##
-source(paste(programdat,"ui.R", sep="/"))
+source("programs/ui.R")
 
 ##
 # Server
 ##
-source(paste(programdat,"server.R", sep="/"))
+source("programs/server.R")
 
 ##
 # Launch Shiny App

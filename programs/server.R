@@ -5,7 +5,7 @@ library(shinydashboard)
 library(shinyjs)
 library(V8)
 
-#source("functions.R")
+source("programs/functions.R")
 
 ##
 #
